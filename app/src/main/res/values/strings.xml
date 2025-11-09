@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplitTrip</string>
+
+    <string name="title_activity_group">Detalhes do Grupo</string>
+
+    <string name="title_activity_main">Minhas Viagens</string>
+
+</resources>
