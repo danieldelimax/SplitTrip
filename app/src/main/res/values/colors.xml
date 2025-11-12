@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#009688</color>
-    <color name="colorAccent">#FFC107</color>
-    <color name="colorOwes">#D32F2F</color>
-    <color name="colorReceives">#388E3C</color>
-    <color name="colorNegativeBalance">#D32F2F</color>
-    <color name="colorPositiveBalance">#4CAF50</color>
+
+    <color name="colorPrimary">#1976D2</color>
+
+    <color name="colorPrimaryDark">#1565C0</color>
+
+    <color name="colorAccent">#00BCD4</color>
+
+    <color name="colorBackgroundLight">#F9F9F9</color>
+
+    <color name="colorTextSecondary">#757575</color>
+
+    <color name="colorError">#D32F2F</color>
 </resources>
-
-
-

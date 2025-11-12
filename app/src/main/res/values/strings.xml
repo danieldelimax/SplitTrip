@@ -1,8 +1,55 @@
 <resources>
-    <string name="app_name">SplitTrip</string>
+    <string name="app_name">Split Trip</string>
 
-    <string name="title_activity_group">Detalhes do Grupo</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_calculate">Calcular Viagem</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_delete">Excluir</string>
+    <string name="btn_add_extra_cost">Adicionar Gasto Extra</string>
+    <string name="btn_manage_costs">Gerenciar Custos Extras</string>
+    <string name="btn_update_rates">Atualizar Taxas de Câmbio</string>
 
-    <string name="title_activity_main">Minhas Viagens</string>
+    <string name="title_activity_main">Meus Grupos de Viagem</string>
+    <string name="title_activity_costs">Gerenciamento de Custos Extras</string>
+    <string name="title_create_group">Criar Novo Grupo de Viagem</string>
+    <string name="label_group_name">Nome do Grupo (Ex: Viagem Litoral)</string>
+    <string name="label_distance_km">Distância Total (km)</string>
+    <string name="label_fuel_price">Preço Médio do Combustível (R$)</string>
+    <string name="label_toll_cost">Custo Total de Pedágios (R$)</string>
+    <string name="label_members">Membros (um por linha)</string>
+    <string name="label_new_member">Nome do Novo Membro</string>
+    <string name="label_extra_cost_description">Descrição do Gasto (Ex: Jantar)</string>
+    <string name="label_extra_cost_value">Valor do Gasto</string>
+    <string name="label_extra_cost_currency">Moeda</string>
+    <string name="label_cost_per_member">Custo por Membro:</string>
+    <string name="label_total_trip_cost">Custo Total da Viagem (R$):</string>
 
+    <string name="hint_group_name">Ex: Férias 2024</string>
+    <string name="hint_distance_km">Ex: 500</string>
+    <string name="hint_fuel_price">Ex: 5.50</string>
+    <string name="hint_toll_cost">Ex: 40.00</string>
+    <string name="hint_members">Digite os nomes aqui...</string>
+    <string name="hint_extra_cost_value">Ex: 250.00</string>
+    <string name="hint_description">Ex: Refeição</string>
+
+    <string name="toast_error_connection">Erro ao buscar taxa de câmbio!</string>
+    <string name="toast_rates_updated">Taxas de câmbio atualizadas com sucesso!</string>
+    <string name="toast_calculation_finished">Cálculo finalizado!</string>
+    <string name="toast_group_saved">Grupo salvo com sucesso.</string>
+    <string name="toast_group_deleted">Grupo excluído.</string>
+    <string name="toast_cost_added">Custo extra adicionado.</string>
+    <string name="toast_input_error">Erro de entrada: Verifique se todos os campos estão preenchidos corretamente com números.</string>
+
+    <string name="menu_update_rates">Atualizar Câmbio</string>
+    <string name="menu_save_trip">Salvar Viagem</string>
+    <string name="menu_edit_group">Editar Grupo</string>
+    <string name="menu_delete_group">Excluir Grupo</string>
+
+    <string-array name="currency_array">
+        <item>BRL</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
 </resources>
